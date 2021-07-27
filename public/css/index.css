@@ -1,0 +1,27 @@
+@import "./app.css";
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+    scroll-behavior: smooth;
+  }
+  .navbar, thead {
+    background-color: #a41d21;
+    color:white;
+  }
+
+  .banner {
+    color:white;
+  }
+
+  .table-div {
+    border:1px solid white;
+    background-image: url('../img/bg.png');
+    background-size: cover;
+    font-weight: 600;
+  }
+
+  .add-update{
+    width:70vw;
+}
